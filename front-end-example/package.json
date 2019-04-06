@@ -1,14 +1,14 @@
 {
-  "name": "AdventureHunt",
+  "name": "adventurehunt",
   "private": true,
   "version": "0.0.0",
   "description": "A web front end sample",
-  "main": "",
+  "main": "AdventureHunt.js",
   "scripts": {
     "start": "superstatic",
     "test": "eslint  \"**/*.js\" && node node_modules/karma/bin/karma start --single-run"
   },
-  "author": "",
+  "author": "alexia filler",
   "license": "MIT",
   "devDependencies": {
     "eslint": "latest",
